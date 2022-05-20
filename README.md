@@ -1,4 +1,4 @@
-# Function-Plotter
+# Function-Plotter Using Qt(C++)
 ## Requirements
 1. Write a GUI program that plots arbitrary user-entered function.
 2. Take a function of x from the user, e.g., 5*x^3 + 2*x.
